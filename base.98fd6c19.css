@@ -10,10 +10,10 @@
 
 body {
 	margin: 0;
-	--color-text: #111110;
-	--color-bg: #E9E6E2;
-	--color-link: #000;
-	--color-link-hover: #111110;
+	--color-text: #470342;
+	--color-bg: #fdcbf1;
+	--color-link: #470342;
+	--color-link-hover: #470342;
 	--image-height-start: 555px;
 	--image-width-end: 260px;
 	--image-height-end: 320px;
@@ -28,7 +28,7 @@ body {
 	overflow: hidden;
 	overflow-y: scroll;
 	--cursor-stroke: none;
-    --cursor-fill: #c5b4b2;
+    --cursor-fill: #ff008c;
     --cursor-stroke-width: 1px;
 	transform: translate3d(0,0,0);
 }
